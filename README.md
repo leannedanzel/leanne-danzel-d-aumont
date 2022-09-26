@@ -1,2 +1,1 @@
-# leanne-danzel-d-aumont
-# http://leannedanzel.github.io
+# https://leannedanzel.github.io
